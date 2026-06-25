@@ -10,10 +10,6 @@ Proyecto desarrollado para el Examen Final de Pensamiento Computacional. Consist
 
 [Agregar enlace]
 
-### Repositorio GitHub
-
-[Agregar enlace]
-
 ---
 
 # Vista previa
