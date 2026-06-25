@@ -22,14 +22,13 @@ La propuesta busca demostrar cómo distintas reglas computacionales pueden utili
 
 # Referente e inspiración
 
-La propuesta se inspira en juegos arcade simples centrados en la captura de objetos y en experiencias interactivas que utilizan retroalimentación inmediata para comunicar el progreso del usuario.
+La propuesta se inspira en Fruit Ninja, un juego arcade que utiliza una mecánica de interacción rápida donde el jugador debe actuar sobre distintos elementos que aparecen en pantalla para obtener puntaje. Al igual que ese referente, este proyecto busca generar una experiencia simple, dinámica y de aprendizaje inmediato mediante la relación entre las acciones del usuario y la respuesta del sistema.
 
-La interacción se basa en una mecánica sencilla de aprendizaje rápido, donde el jugador comprende inmediatamente la relación entre sus acciones y las respuestas entregadas por el sistema.
+En Atrapa las Burbujas, esta mecánica se adapta utilizando el mouse para capturar burbujas en movimiento. Cada captura entrega retroalimentación visual y sonora, aumenta el puntaje del jugador y acerca al objetivo final del juego. De esta forma, la propuesta reinterpretó la lógica de interacción de Fruit Ninja mediante un sistema basado en estados, variables, condicionales, funciones y detección de colisiones.
 
 ## Imagen referente
 
-[Insertar imagen]
-
+![Imagen-referente](imagen-referente.png) 
 ---
 
 # Inputs del sistema
