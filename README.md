@@ -162,14 +162,6 @@ Durante esta etapa se realizaron pruebas de movimiento, detección de colisiones
 
 ---
 
-## Resultado final
-
-[Insertar imagen]
-
-Versión final del proyecto con todos los estados implementados, interacción mediante el mouse y sistema de puntaje completamente funcional.
-
----
-
 # Herramientas utilizadas
 
 * p5.js
