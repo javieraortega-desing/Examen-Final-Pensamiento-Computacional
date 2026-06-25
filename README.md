@@ -180,10 +180,12 @@ Versión final del proyecto con todos los estados implementados, interacción me
 
 # Reflexión final
 
-Este proyecto permitió aplicar diversos conceptos vistos durante el curso, incluyendo estados, variables, funciones, bucles, condicionales e interacción mediante inputs del usuario.
+# Reflexión final
 
-Uno de los mayores desafíos fue organizar correctamente los estados del sistema y lograr que las colisiones, el puntaje y los sonidos funcionaran de manera coordinada.
+Este proyecto me permitió aplicar los contenidos vistos durante el curso en un sistema interactivo completo. A lo largo del desarrollo comprendí cómo variables, funciones, condicionales, bucles y estados trabajan en conjunto para controlar el funcionamiento del juego y responder a las acciones del usuario.
 
-La experiencia permitió comprender cómo reglas computacionales relativamente simples pueden combinarse para construir sistemas interactivos completos y coherentes. Si se continuara desarrollando el proyecto, podrían incorporarse nuevos niveles, temporizadores o distintos tipos de burbujas para aumentar la complejidad del juego.
+Uno de los mayores desafíos fue organizar correctamente la lógica del programa para que cada estado cumpliera su función y las transiciones entre ellos ocurrieran en el momento adecuado. También fue importante probar constantemente el código para detectar errores y asegurar que el puntaje, las colisiones y los sonidos funcionaran de forma coordinada.
+
+En conjunto, esta experiencia me permitió comprender mejor el pensamiento computacional como una forma de planificar, organizar y resolver problemas mediante una secuencia lógica. Si continuara desarrollando el proyecto, incorporaría nuevos niveles, un temporizador y distintos tipos de burbujas para ampliar la experiencia de juego.
 
 ---
