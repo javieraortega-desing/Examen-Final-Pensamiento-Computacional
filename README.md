@@ -16,7 +16,7 @@ https://editor.p5js.org/javiera.ortega5/sketches/-kd2gywp-
 
 ## Pantalla de inicio
 
-[Insertar imagen]
+[imagen de inicio.png]
 
 ## Juego principal
 
