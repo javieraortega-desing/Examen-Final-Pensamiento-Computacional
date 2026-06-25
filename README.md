@@ -38,7 +38,14 @@ La inspiración en Fruit Ninja no busca reproducir su funcionamiento, sino reint
 
 El sistema utiliza como principal método de interacción el mouse. La posición horizontal y vertical del cursor determina el movimiento del jugador dentro del escenario, mientras que un clic permite pasar desde la pantalla de inicio al estado de juego. Estos inputs son suficientes para controlar toda la experiencia, manteniendo una interacción simple, intuitiva y fácil de aprender.
 
-| Input | Función | | --------------- | ------------------------------------------- | | MouseX | Controla la posición horizontal del jugador | | MouseY | Controla la posición vertical del jugador | | Click del mouse | Inicia la partida |
+# Inputs del sistema
+
+| Input           | Función                                     |
+| --------------- | ------------------------------------------- |
+| MouseX          | Controla la posición horizontal del jugador |
+| MouseY          | Controla la posición vertical del jugador   |
+| Click del mouse | Inicia la partida                           |
+
 ---
 
 # Estados del sistema
