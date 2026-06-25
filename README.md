@@ -172,8 +172,6 @@ Durante esta etapa se realizaron pruebas de movimiento, detección de colisiones
 
 # Reflexión final
 
-# Reflexión final
-
 Este proyecto me permitió aplicar los contenidos vistos durante el curso en un sistema interactivo completo. A lo largo del desarrollo comprendí cómo variables, funciones, condicionales, bucles y estados trabajan en conjunto para controlar el funcionamiento del juego y responder a las acciones del usuario.
 
 Uno de los mayores desafíos fue organizar correctamente la lógica del programa para que cada estado cumpliera su función y las transiciones entre ellos ocurrieran en el momento adecuado. También fue importante probar constantemente el código para detectar errores y asegurar que el puntaje, las colisiones y los sonidos funcionaran de forma coordinada.
