@@ -171,7 +171,6 @@ Versión final implementada en p5.js.
 * p5.js
 * JavaScript
 * GitHub
-* Visual Studio Code
 
 ---
 
