@@ -165,14 +165,6 @@ Durante esta etapa se realizaron pruebas de movimiento, detección de colisiones
 
 ---
 
-# Herramientas utilizadas
-
-* p5.js
-* JavaScript
-* GitHub
-
----
-
 # Reflexión final
 
 Este proyecto me permitió aplicar los contenidos vistos durante el curso en un sistema interactivo completo. A lo largo del desarrollo comprendí cómo variables, funciones, condicionales, bucles y estados trabajan en conjunto para controlar el funcionamiento del juego y responder a las acciones del usuario.
