@@ -67,7 +67,7 @@ La interacción se basa en una mecánica sencilla de aprendizaje rápido, donde 
 
 ### Captura
 
-[Insertar imagen]
+![Imagen de inicio](inicia-el-juego.png) 
 
 ---
 
@@ -79,7 +79,7 @@ La interacción se basa en una mecánica sencilla de aprendizaje rápido, donde 
 
 ### Captura
 
-[Insertar imagen]
+![Imagen de inicio](ganaste-el-juego.png) 
 
 ---
 
@@ -137,8 +137,7 @@ let tamJugador = map(
 
 El siguiente diagrama representa el funcionamiento general del sistema y la relación entre inputs, procesos, decisiones y estados.
 
-[Insertar diagrama]
-
+![Imagen de inicio](diagrama-de-flujo.png)  
 ---
 
 # Proceso de desarrollo
