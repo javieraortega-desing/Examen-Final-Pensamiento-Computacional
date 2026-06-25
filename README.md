@@ -16,16 +16,18 @@ https://editor.p5js.org/javiera.ortega5/sketches/-kd2gywp-
 
 # Concepto
 
-Atrapa las Burbujas es un juego interactivo donde el usuario debe capturar burbujas en movimiento utilizando el mouse. A medida que aumenta el puntaje, el jugador crece de tamaño hasta capturar todas las burbujas y alcanzar la pantalla de victoria.
+Atrapa las Burbujas es un juego interactivo en el que el usuario debe capturar burbujas en movimiento utilizando el mouse. Cada captura aumenta el puntaje y produce una respuesta visual y sonora que informa al jugador que la acción fue realizada correctamente. Además, el tamaño del jugador cambia progresivamente según el puntaje obtenido, entregando una representación visual de su avance.
+
+El proyecto fue diseñado como un sistema basado en estados, permitiendo separar el funcionamiento en una pantalla de inicio, una etapa de juego y una pantalla de victoria. Esta organización facilita el control de la lógica del programa y hace que cada etapa tenga un comportamiento claramente definido.
 ---
 
 # Referente e inspiración
 
-# Referente e inspiración
+La propuesta se inspira en Fruit Ninja, un juego arcade caracterizado por su mecánica de interacción rápida y por la respuesta inmediata que entrega al jugador cada vez que realiza una acción correctamente. En ese juego, el usuario obtiene puntaje al interactuar con distintos elementos que aparecen en pantalla, generando una experiencia dinámica y fácil de comprender.
 
-La propuesta se inspira en Fruit Ninja, un juego arcade que utiliza una mecánica de interacción rápida para obtener puntaje al actuar sobre distintos elementos en pantalla.
+Atrapa las Burbujas adapta esa idea utilizando burbujas en lugar de frutas y reemplazando el gesto de cortar por la acción de capturarlas con el mouse. Aunque la temática es diferente, ambos proyectos comparten una mecánica basada en la coordinación entre el movimiento del jugador y los elementos presentes en pantalla, acompañada por retroalimentación visual y sonora que comunica el progreso durante la partida.
 
-Atrapa las Burbujas adapta esa lógica reemplazando las frutas por burbujas que deben capturarse con el mouse. Cada captura produce una respuesta visual y sonora que informa el progreso del jugador hasta completar el objetivo del juego.
+La inspiración en Fruit Ninja no busca reproducir su funcionamiento, sino reinterpretar su lógica de interacción mediante una propuesta propia desarrollada en p5.js y organizada a través de estados, funciones y procesos computacionales.
 
 ## Imagen referente
 
@@ -34,12 +36,12 @@ Atrapa las Burbujas adapta esa lógica reemplazando las frutas por burbujas que 
 
 # Inputs del sistema
 
-| Input           | Función                                     |
-| --------------- | ------------------------------------------- |
-| MouseX          | Controla la posición horizontal del jugador |
-| MouseY          | Controla la posición vertical del jugador   |
-| Click del mouse | Inicia la partida                           |
+El sistema utiliza como principal método de interacción el mouse. La posición horizontal y vertical del cursor determina el movimiento del jugador dentro del escenario, mientras que un clic permite pasar desde la pantalla de inicio al estado de juego. Estos inputs son suficientes para controlar toda la experiencia, manteniendo una interacción simple, intuitiva y fácil de aprender.
 
+Input	Función
+MouseX	Controla la posición horizontal del jugador.
+MouseY	Controla la posición vertical del jugador.
+Click del mouse	Inicia la partida.
 ---
 
 # Estados del sistema
