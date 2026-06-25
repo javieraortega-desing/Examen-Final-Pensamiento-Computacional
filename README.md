@@ -137,7 +137,7 @@ let tamJugador = map(
 
 El siguiente diagrama representa el funcionamiento general del sistema y la relación entre inputs, procesos, decisiones y estados.
 
-![Imagen de inicio](Diagrama-de-flujo.png)    
+![Imagen de inicio](diagrama-de-flujo.png)     
 ---
 
 # Proceso de desarrollo
