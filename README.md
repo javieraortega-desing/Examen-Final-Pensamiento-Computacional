@@ -12,22 +12,6 @@ https://editor.p5js.org/javiera.ortega5/sketches/-kd2gywp-
 
 ---
 
-# Vista previa
-
-## Pantalla de inicio
-
-[imagen de inicio.png]
-
-## Juego principal
-
-[Insertar imagen]
-
-## Pantalla de victoria
-
-[Insertar imagen]
-
----
-
 # Concepto
 
 Atrapa las Burbujas es un juego interactivo basado en estados donde el usuario debe capturar una serie de burbujas que se desplazan por la pantalla. El sistema combina movimiento aleatorio, detección de colisiones y retroalimentación visual y sonora para generar una experiencia simple pero dinámica.
@@ -69,7 +53,7 @@ La interacción se basa en una mecánica sencilla de aprendizaje rápido, donde 
 
 ### Captura
 
-[Insertar imagen]
+[imagen de inicio.png]
 
 ---
 
