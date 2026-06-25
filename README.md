@@ -8,7 +8,7 @@ Proyecto desarrollado para el Examen Final de Pensamiento Computacional. Consist
 
 ### Sketch en p5.js
 
-[https://editor.p5js.org/javiera.ortega5/sketches/-kd2gywp-]
+https://editor.p5js.org/javiera.ortega5/sketches/-kd2gywp-
 
 ---
 
