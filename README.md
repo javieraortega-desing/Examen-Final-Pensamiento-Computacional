@@ -33,6 +33,9 @@ La inspiración en Fruit Ninja no busca reproducir su funcionamiento, sino reint
 ## Imagen referente
 
 ![Imagen-referente](imagen-referente.png) 
+
+Aunque Fruit Ninja utiliza una mecánica de corte y Atrapa las Burbujas propone una mecánica de captura, ambos buscan que el usuario obtenga una respuesta inmediata a sus acciones. En este proyecto esa lógica fue adaptada utilizando recursos propios de p5.js y una estructura basada en estados para construir una experiencia sencilla pero coherente.
+
 ---
 
 # Inputs del sistema
