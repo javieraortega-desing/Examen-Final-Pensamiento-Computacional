@@ -53,7 +53,7 @@ La interacción se basa en una mecánica sencilla de aprendizaje rápido, donde 
 
 ### Captura
 
-(imagen de inicio.png)     
+![Imagen de inicio](imagen de inicio.png) 
 
 ---
 
