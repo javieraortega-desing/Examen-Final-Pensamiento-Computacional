@@ -158,8 +158,8 @@ Primer esquema del funcionamiento del juego y distribución de sus elementos pri
 ## Desarrollo
 
 ![Imagen de inicio](proceso-de-codigo.png)     
-
 Durante esta etapa se realizaron pruebas de movimiento, detección de colisiones, sonidos y transición entre estados para verificar el correcto funcionamiento del sistema.
+
 ---
 
 ## Resultado final
