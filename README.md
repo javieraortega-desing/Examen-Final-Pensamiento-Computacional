@@ -1,9 +1,10 @@
-# Examen-Final-Pensamiento-Computacional
+# Examen Final – Pensamiento Computacional
+
 # Atrapa las Burbujas
-Proyecto desarrollado para el Examen Final de Pensamiento Computacional.
-Consiste en un sistema interactivo programado en p5.js que utiliza estados, eventos, variables, condicionales, bucles, funciones, multimedia e interacción mediante mouse para generar una experiencia lúdica basada en la captura de burbujas y la obtención de puntaje.
 
 **Autora:** Javiera Ortega
+
+Atrapa las Burbujas es un sistema interactivo desarrollado en p5.js para el Examen Final de Pensamiento Computacional. El proyecto utiliza estados, variables, funciones, condicionales, bucles, elementos multimedia e interacción mediante el mouse para construir una experiencia basada en la captura de burbujas y la obtención de puntaje.
 
 # Link del proyecto
 
@@ -15,17 +16,16 @@ https://editor.p5js.org/javiera.ortega5/sketches/-kd2gywp-
 
 # Concepto
 
-Atrapa las Burbujas es un juego interactivo basado en estados donde el usuario debe capturar una serie de burbujas que se desplazan por la pantalla. El sistema combina movimiento aleatorio, detección de colisiones y retroalimentación visual y sonora para generar una experiencia simple pero dinámica.
-
-La propuesta busca demostrar cómo distintas reglas computacionales pueden utilizarse para construir una experiencia interactiva mediante el uso de variables, condicionales, funciones, bucles y elementos multimedia.
-
+Atrapa las Burbujas es un juego interactivo donde el usuario debe capturar burbujas en movimiento utilizando el mouse. A medida que aumenta el puntaje, el jugador crece de tamaño hasta capturar todas las burbujas y alcanzar la pantalla de victoria.
 ---
 
 # Referente e inspiración
 
-La propuesta se inspira en Fruit Ninja, un juego arcade que utiliza una mecánica de interacción rápida donde el jugador debe actuar sobre distintos elementos que aparecen en pantalla para obtener puntaje. Al igual que ese referente, este proyecto busca generar una experiencia simple, dinámica y de aprendizaje inmediato mediante la relación entre las acciones del usuario y la respuesta del sistema.
+# Referente e inspiración
 
-En Atrapa las Burbujas, esta mecánica se adapta utilizando el mouse para capturar burbujas en movimiento. Cada captura entrega retroalimentación visual y sonora, aumenta el puntaje del jugador y acerca al objetivo final del juego. De esta forma, la propuesta reinterpretó la lógica de interacción de Fruit Ninja mediante un sistema basado en estados, variables, condicionales, funciones y detección de colisiones.
+La propuesta se inspira en Fruit Ninja, un juego arcade que utiliza una mecánica de interacción rápida para obtener puntaje al actuar sobre distintos elementos en pantalla.
+
+Atrapa las Burbujas adapta esa lógica reemplazando las frutas por burbujas que deben capturarse con el mouse. Cada captura produce una respuesta visual y sonora que informa el progreso del jugador hasta completar el objetivo del juego.
 
 ## Imagen referente
 
@@ -87,7 +87,7 @@ En Atrapa las Burbujas, esta mecánica se adapta utilizando el mouse para captur
 
 ## random()
 
-La función random() se utiliza para generar posiciones iniciales aleatorias para las burbujas y para producir pequeñas variaciones en su movimiento durante el juego.
+La función random() se utiliza para generar posiciones aleatorias para las burbujas y para producir pequeñas variaciones en su movimiento durante el juego.
 
 ### Código
 
@@ -146,7 +146,7 @@ El siguiente diagrama representa el funcionamiento general del sistema y la rela
 
 [Insertar imagen]
 
-Descripción breve del planteamiento inicial del proyecto.
+Primer esquema del funcionamiento del juego y distribución de sus elementos principales antes de comenzar la programación.
 
 ---
 
@@ -154,15 +154,14 @@ Descripción breve del planteamiento inicial del proyecto.
 
 [Insertar imagen]
 
-Pruebas de funcionamiento, detección de colisiones y ajustes de interacción.
-
+Durante esta etapa se realizaron pruebas de movimiento, detección de colisiones, sonidos y transición entre estados para verificar el correcto funcionamiento del sistema.
 ---
 
 ## Resultado final
 
 [Insertar imagen]
 
-Versión final implementada en p5.js.
+Versión final del proyecto con todos los estados implementados, interacción mediante el mouse y sistema de puntaje completamente funcional.
 
 ---
 
@@ -178,7 +177,7 @@ Versión final implementada en p5.js.
 
 Este proyecto permitió aplicar diversos conceptos vistos durante el curso, incluyendo estados, variables, funciones, bucles, condicionales e interacción mediante inputs del usuario.
 
-Uno de los principales desafíos fue organizar correctamente la lógica del sistema utilizando distintos estados para controlar cada etapa de la experiencia. También fue necesario implementar mecanismos de detección de colisiones y relacionar distintos elementos visuales y sonoros para entregar una retroalimentación clara al usuario.
+Uno de los mayores desafíos fue organizar correctamente los estados del sistema y lograr que las colisiones, el puntaje y los sonidos funcionaran de manera coordinada.
 
 La experiencia permitió comprender cómo reglas computacionales relativamente simples pueden combinarse para construir sistemas interactivos completos y coherentes. Si se continuara desarrollando el proyecto, podrían incorporarse nuevos niveles, temporizadores o distintos tipos de burbujas para aumentar la complejidad del juego.
 
