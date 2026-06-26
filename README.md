@@ -152,7 +152,8 @@ El siguiente diagrama representa el funcionamiento general del sistema y la rela
 
 ## Boceto inicial
 
-[Insertar imagen]
+![Imagen de inicio](bitacora1.jpg)   
+![Imagen de inicio](bitacora2.jpg)   
 
 Primer esquema del funcionamiento del juego y distribución de sus elementos principales antes de comenzar la programación.
 
